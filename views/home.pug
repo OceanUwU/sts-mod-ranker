@@ -16,18 +16,19 @@ block content
             br
             | Your votes are anonymous.
             br
+            a.btn.btn-secondary.btn-sm.me-2(href="/votes").mt-1 Votes
             a.btn.btn-secondary.btn-sm(href="/blacklist").mt-1 "Never played" list
         .d-flex.flex-column.vw-100.vh-100.d-none.justify-content-center.align-items-center#vote
             h3.mb-5 Which character do you prefer?
             .w-100.d-flex.justify-content-evenly.align-items-center.mb-3r#options.mb-2: for i in [0, null, 1]
                 if i !== null
-                    .d-flex.flex-column.align-items-cente
+                    .d-flex.flex-column.align-items-center
                         button.btn.btn-primary.btn-lg.mb-3(onclick=`vote(${i})`) #[img.rounded]#[br]#[span]
                         button.btn.btn-secondary.btn-sm(onclick=`blacklist(${i})`) Never played
                 else
                     h5 or
             button.btn.btn-secondary.btn-sm.mb-2(onclick="blacklist(2)") Never played either
-            button.btn.btn-secondary.btn-sm.mb-3(onclick="reroll()") Reroll
+            button.btn.btn-warning.btn-sm.mb-3(onclick="reroll()") Reroll
             hr.w-100
             span Your votes: #[b#me ?]
             span Total votes: #[b#total ?]

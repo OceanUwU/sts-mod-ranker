@@ -13,6 +13,7 @@
     results.exportTime = Date.now();
     results.totalVotes = votes.length;
     results.votes = votes.map(v => [charIndexes[v.win], charIndexes[v.lose]]);
+    results.uniqueVoters = [...new Set(votes.map(v => v.user))].length;
     results.characters = characters.map((c, i) => {
         c.wins = results.votes.filter(v => v[0] == i).map(v => v[1]);
         c.losses = results.votes.filter(v => v[1] == i).map(v => v[0]);

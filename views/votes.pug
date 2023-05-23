@@ -1,0 +1,24 @@
+extends ./lay
+
+block title
+    | Votes
+
+block content
+    if req.user
+        .p-3
+            h1 Your votes #[a.btn.btn-primary(href="/") Back to voting]
+            if votes.length > 0
+                each vote in votes
+                    p
+                        | You prefer
+                        img.rounded.mx-2(width=75 src=vote.win.image)
+                        b= vote.win.name
+                        |  to 
+                        img.rounded.me-2(width=75 src=vote.lose.image)
+                        b= vote.lose.name
+                        
+                        a.btn.btn-danger.btn-sm.ms-2(href=`/votes/remove/${vote.id}`) Delete
+            else
+                p Nothing here!
+    else
+        a(href="/login") Login to see votes

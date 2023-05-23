@@ -61,6 +61,18 @@
             await db.Blacklist.destroy({where: {user: req.user.id, char: req.originalUrl.slice('/blacklist/remove/'.length)}});
         res.redirect('/blacklist');
     });
+    app.get('/votes', async (req, res) => res.render('votes', req.user ? {votes: (await db.Vote.findAll({where: {user: req.user.id}})).map(v => {
+        v.win = characters.find(c => c.id == v.win);
+        v.lose = characters.find(c => c.id == v.lose);
+        return v;
+    })} : {}));
+    app.get('/votes/remove/*', async (req, res) => {
+        if (req.user)
+            await db.Vote.destroy({where: {user: req.user.id, id: parseInt(req.originalUrl.slice('/votes/remove/'.length))}});
+        total = await db.Vote.count();
+        io.emit('total', total);
+        res.redirect('/votes');
+    });
     app.use(express.static('static'));
 
     var voters = 0;
@@ -104,6 +116,7 @@
                     let lose = socket.options[0].id;
                     await db.Vote.create({user: socket.request.user.id, win, lose});
                     io.emit('total', ++total);
+                    console.log(`Vote #${total} submitted`);
                     getOptions(socket);
                 }
             }
