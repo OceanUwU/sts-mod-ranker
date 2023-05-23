@@ -26,7 +26,7 @@
         c.id = i;
         c.comparisons = characters.filter(c2 => c != c2).map((c2, j) => {
             let comparison = {
-                name: c2.name,
+                vs: c2.name,
                 wins: c.wins.filter(v => v == j).length,
                 losses: c.losses.filter(v => v == j).length,
             };
