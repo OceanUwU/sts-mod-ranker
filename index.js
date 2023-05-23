@@ -1,4 +1,5 @@
 (async () => {
+    const fs = require('fs');
     const express = require('express');
     const { createServer } = require('http');
     const { Server } = require('socket.io');
@@ -53,6 +54,7 @@
         next();
     });
     app.get('/', (req, res) => res.render('home'));
+    app.get('/results', (req, res) => res.render('results', fs.existsSync('results.json') ? {results: JSON.parse(fs.readFileSync('results.json'))} : {}));
     app.use(express.static('static'));
 
     var voters = 0;
