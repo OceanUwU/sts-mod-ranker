@@ -55,6 +55,12 @@
     });
     app.get('/', (req, res) => res.render('home'));
     app.get('/results', (req, res) => res.render('results', fs.existsSync('results.json') ? {results: JSON.parse(fs.readFileSync('results.json'))} : {}));
+    app.get('/blacklist', async (req, res) => res.render('blacklist', req.user ? {blacklisted: (await db.Blacklist.findAll({where: {user: req.user.id}})).map(b => characters.find(c => c.id == b.char))} : {}));
+    app.get('/blacklist/remove/*', async (req, res) => {
+        if (req.user)
+            await db.Blacklist.destroy({where: {user: req.user.id, char: req.originalUrl.slice('/blacklist/remove/'.length)}});
+        res.redirect('/blacklist');
+    });
     app.use(express.static('static'));
 
     var voters = 0;

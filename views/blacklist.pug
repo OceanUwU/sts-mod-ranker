@@ -1,0 +1,19 @@
+extends ./lay
+
+block title
+    | Blacklist
+
+block content
+    if req.user
+        .p-3
+            h1 Your character blacklist #[a.btn.btn-primary(href="/") Back to voting]
+            if blacklisted.length > 0
+                each char in blacklisted
+                    p
+                        img.rounded.me-2(width=75 src=char.image)
+                        = char.name
+                        a.btn.btn-danger.btn-sm.ms-2(href=`/blacklist/remove/${char.id}`) Remove
+            else
+                p Nothing here!
+    else
+        a(href="/login") Login to see blacklist
