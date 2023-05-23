@@ -1,0 +1,25 @@
+[
+    {
+        "id": "0-1",
+        "name": "The Ironclad",
+        "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663245827153920.png"
+    },
+    
+    {
+        "id": "0-2",
+        "name": "The Silent",
+        "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663245281898536.png"
+    },
+    
+    {
+        "id": "0-3",
+        "name": "The Defect",
+        "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663257176932362.png"
+    },
+    
+    {
+        "id": "0-4",
+        "name": "The Watcher",
+        "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663229943324743.png"
+    }
+]

@@ -1,0 +1,13 @@
+#login {
+    position: absolute;
+    top: 0;
+}
+
+.spinner-border {
+    scale: 2;
+}
+
+#vote img {
+    width: 20rem;
+    max-width: 33vw;
+}
