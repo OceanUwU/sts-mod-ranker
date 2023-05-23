@@ -32,3 +32,8 @@ function blacklist(option) {
     load();
     socket.emit('blacklist', option);
 }
+
+function reroll() {
+    load();
+    socket.emit('reroll');
+}

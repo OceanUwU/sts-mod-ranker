@@ -114,6 +114,8 @@
                 }
             }
         });
+
+        socket.on('reroll', () => getOptions(socket));
     });
 
     httpServer.listen(cfg.port);
