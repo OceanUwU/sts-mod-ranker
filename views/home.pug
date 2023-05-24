@@ -24,7 +24,9 @@ block content
                 if i !== null
                     .d-flex.flex-column.align-items-center
                         button.btn.btn-primary.btn-lg.mb-3(onclick=`vote(${i})`) #[img.rounded]#[br]#[span]
-                        button.btn.btn-secondary.btn-sm(onclick=`blacklist(${i})`) Never played
+                        .d-flex
+                            a.btn.btn-info.btn-sm.me-1(target="_blank") Mod page
+                            button.btn.btn-secondary.btn-sm(onclick=`blacklist(${i})`) Never played
                 else
                     h5 or
             button.btn.btn-secondary.btn-sm.mb-2(onclick="blacklist(2)") Never played either

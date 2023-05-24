@@ -2,396 +2,475 @@
     {
       "id": "0-1",
       "name": "The Ironclad",
-      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663245827153920.png"
+      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663245827153920.png",
+      "link": "https://store.steampowered.com/app/646570/Slay_the_Spire/"
     },
     {
       "id": "0-2",
       "name": "The Silent",
-      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663245281898536.png"
+      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663245281898536.png",
+      "link": "https://store.steampowered.com/app/646570/Slay_the_Spire/"
     },
     {
       "id": "0-3",
       "name": "The Defect",
-      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663257176932362.png"
+      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663257176932362.png",
+      "link": "https://store.steampowered.com/app/646570/Slay_the_Spire/"
     },
     {
       "id": "0-4",
       "name": "The Watcher",
-      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663229943324743.png"
+      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663229943324743.png",
+      "link": "https://store.steampowered.com/app/646570/Slay_the_Spire/"
     },
     {
       "id": "1722038604164808009-1",
       "name": "The Slime Boss - Downfall",
-      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663243100852264.png"
+      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663243100852264.png",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1610056683"
     },
     {
       "id": "1722038604164808009-2",
       "name": "The Guardian - Downfall",
-      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663252181545001.png"
+      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663252181545001.png",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1610056683"
     },
     {
       "id": "1722038604164808009-3",
       "name": "The Hexaghost - Downfall",
-      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663249228755024.png"
+      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663249228755024.png",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1610056683"
     },
     {
       "id": "1722038604164808009-4",
       "name": "The Champ - Downfall",
-      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663268614811668.png"
+      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663268614811668.png",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1610056683"
     },
     {
       "id": "1722038604164808009-5",
       "name": "The Automaton - Downfall",
-      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663273987706930.png"
+      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663273987706930.png",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1610056683"
     },
     {
       "id": "1722038604164808009-6",
       "name": "The Gremlins - Downfall",
-      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/1068885926870253698.png"
+      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/1068885926870253698.png",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1610056683"
     },
     {
       "id": "1722038604164808009-7",
       "name": "The Snecko - Downfall",
-      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663234569642034.png"
+      "image": "https://cdn.discordapp.com/app-assets/971123328708411413/978663234569642034.png",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1610056683"
     },
     {
       "id": "1259267804699588818",
       "name": "The Hermit - Downfall",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1259267804699588818/236A9395563704DE10AD62DA7C3E72CD2A3682AB/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1259267804699588818/236A9395563704DE10AD62DA7C3E72CD2A3682AB/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1610056683"
     },
     {
       "id": "2032855620555297983",
       "name": "The Rainbow",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/2032855620555297983/4351E40C7CDA563CC0283B3220C1EC3003F648E5/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2032855620555297983/4351E40C7CDA563CC0283B3220C1EC3003F648E5/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2969378732"
     },
     {
       "id": "2017088263942862136",
       "name": "The Milkman",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/2017088263942862136/5E3B26D8E23EF5AC26FA66F1B87207FB816559E9/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2017088263942862136/5E3B26D8E23EF5AC26FA66F1B87207FB816559E9/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2946008091"
     },
     {
       "id": "2047485847931018240",
       "name": "The Aquatic",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/2047485847931018240/9365361180446286B19A71E27A720A563628CF15/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2047485847931018240/9365361180446286B19A71E27A720A563628CF15/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2934762346"
     },
     {
       "id": "2036226659790019817",
       "name": "The Testers",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/2036226659790019817/709BB557B538701B5CE99637CA79840B95788892/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2036226659790019817/709BB557B538701B5CE99637CA79840B95788892/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2932001642"
     },
     {
       "id": "2026092295910838604",
       "name": "Grift the Spire",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/2026092295910838604/8C4C6BB3C47E557C4B0E99016AF957F17763FA41/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2026092295910838604/8C4C6BB3C47E557C4B0E99016AF957F17763FA41/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2927071161"
     },
     {
       "id": "2057616855938950393",
       "name": "The Abyssal",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/2057616855938950393/29BB2A9D9856082DEA33C93E2BF21C468A30A0A3/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2057616855938950393/29BB2A9D9856082DEA33C93E2BF21C468A30A0A3/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2926169201"
     },
     {
       "id": "2011454324638589723",
       "name": "The Packmaster",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/2011454324638589723/6D4C16C3FF098ADEE5E87759853CCA3A047C518F/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2011454324638589723/6D4C16C3FF098ADEE5E87759853CCA3A047C518F/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2920075378"
     },
     {
       "id": "2032842617993907347",
       "name": "The Unchained",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/2032842617993907347/C412907197A3858A73584F33C307945488602CBB/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2032842617993907347/C412907197A3858A73584F33C307945488602CBB/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2898404807"
     },
     {
       "id": "1812159260325464526",
       "name": "The Delivery Robot (Levelhead Mod)",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1812159260325464526/484A39561A1A6015E23D3C345008C581E16BA6BF/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1812159260325464526/484A39561A1A6015E23D3C345008C581E16BA6BF/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2866442189"
     },
     {
       "id": "1817788219494248005",
       "name": "The Ephemeral",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1817788219494248005/64B36911B0475798C21FAEEC1C6ADD8A8010B65B/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1817788219494248005/64B36911B0475798C21FAEEC1C6ADD8A8010B65B/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2864746132"
     },
     {
       "id": "1908988652339361292",
       "name": "The Yakuza",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1908988652339361292/7AB182867DFC1AF32BBFFEACFB22AA118A01A02C/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1908988652339361292/7AB182867DFC1AF32BBFFEACFB22AA118A01A02C/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2853204738"
     },
     {
       "id": "1749105351130271885",
       "name": "The Adventurer",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1749105351130271885/17EC085E316E8E9876C635E9308EC402A9ADD897/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1749105351130271885/17EC085E316E8E9876C635E9308EC402A9ADD897/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2848995399"
     },
     {
       "id": "2056499197274055622",
       "name": "The M10 Robot",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/2056499197274055622/5910023264BFB38664A0A08B3E54E1C2DF922650/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2056499197274055622/5910023264BFB38664A0A08B3E54E1C2DF922650/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2830350636"
     },
     {
       "id": "1886458507198962790",
       "name": "The Avocado",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1886458507198962790/C3F6CC1908ADDD8D259778A2239512C96C08C70D/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1886458507198962790/C3F6CC1908ADDD8D259778A2239512C96C08C70D/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2816136266"
     },
     {
       "id": "1807643704286476794",
       "name": "The Artist",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1807643704286476794/8414B7DA4669A293A590B0712F56AA2D6358DF35/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1807643704286476794/8414B7DA4669A293A590B0712F56AA2D6358DF35/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2808845989"
     },
     {
       "id": "1874060381397419853",
       "name": "The Crimson-Eyed",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1874060381397419853/E738266DE8DCCF18D64B43B95E7BE8D158B47221/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1874060381397419853/E738266DE8DCCF18D64B43B95E7BE8D158B47221/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2710807133"
     },
     {
       "id": "1752455124069325990",
       "name": "The Blade Gunner",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1752455124069325990/1C1F777882E31E88BF44E12457ABA9440EE27719/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1752455124069325990/1C1F777882E31E88BF44E12457ABA9440EE27719/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2623493017"
     },
     {
       "id": "1772708222121295293",
       "name": "The Human",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1772708222121295293/C3D0E00E75283B2EB0621E8C2CB8D85A02D297CA/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1772708222121295293/C3D0E00E75283B2EB0621E8C2CB8D85A02D297CA/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2489999372"
     },
     {
       "id": "1809862209417328624",
       "name": "The Chaser",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1809862209417328624/C56538351EFD6F5A0FC1441D3FD6DC6DB0B43913/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1809862209417328624/C56538351EFD6F5A0FC1441D3FD6DC6DB0B43913/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2482155530"
     },
     {
       "id": "1771579475954725886",
       "name": "The Evolution",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1771579475954725886/988EC8159D1F264F3A6D8DFC84EE6A297DB778FE/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1771579475954725886/988EC8159D1F264F3A6D8DFC84EE6A297DB778FE/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2459411513"
     },
     {
       "id": "1718660292956549263",
       "name": "The Templar",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1718660292956549263/A2813037F0E1686D8A891CE51F4989B5E0D0255C/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1718660292956549263/A2813037F0E1686D8A891CE51F4989B5E0D0255C/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2437283392"
     },
     {
       "id": "1776078386172747665",
       "name": "Library of Ruina",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1776078386172747665/208ED7A744A0430EE4AC4941DBF8F082F34FAD57/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1776078386172747665/208ED7A744A0430EE4AC4941DBF8F082F34FAD57/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2405293544"
     },
     {
       "id": "2056499197274143376",
       "name": "100% Spire Juice",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/2056499197274143376/BAFFE99F81E9724C5AAE846719F4BC591B7E965D/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2056499197274143376/BAFFE99F81E9724C5AAE846719F4BC591B7E965D/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2348819534"
     },
     {
       "id": "1648845741577820593",
       "name": "The Marked",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1648845741577820593/491D22CF4FF6C38E2D4FE382A1987F3797EA4B99/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1648845741577820593/491D22CF4FF6C38E2D4FE382A1987F3797EA4B99/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2326379575"
     },
     {
       "id": "1663479340332731798",
       "name": "Robot Space Explorer",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1663479340332731798/27DD521C5571A46CA1E7E72267C3B078263E638F/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1663479340332731798/27DD521C5571A46CA1E7E72267C3B078263E638F/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2288691830"
     },
     {
       "id": "1679240336949481437",
       "name": "The Chef",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1679240336949481437/52BF005DE7617C2BC82C0FC8EF5799C10C5C0FB0/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1679240336949481437/52BF005DE7617C2BC82C0FC8EF5799C10C5C0FB0/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2270591084"
     },
     {
       "id": "1779479329210150303",
       "name": "Ekko, The boy who shattered time",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1779479329210150303/2E0F1A8083FEFAF102943AA9F025F0DF869F5B8F/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1779479329210150303/2E0F1A8083FEFAF102943AA9F025F0DF869F5B8F/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2247375531"
     },
     {
       "id": "1466437794012917524",
       "name": "Shade Mod",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1466437794012917524/A855A2176BEF89558AF160B0E57FF923D678F0D6/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1466437794012917524/A855A2176BEF89558AF160B0E57FF923D678F0D6/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2191664534"
     },
     {
       "id": "1969791589024970740",
       "name": "The Vacant",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1969791589024970740/EF8DE2E2562D91DC2A78A5C013D0BC592E36800A/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1969791589024970740/EF8DE2E2562D91DC2A78A5C013D0BC592E36800A/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2139050469"
     },
     {
       "id": "1014943649047628307",
       "name": "The Dio",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1014943649047628307/87A2788FF7A819EB79FDAE1F20A4B6B98E5AD456/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1014943649047628307/87A2788FF7A819EB79FDAE1F20A4B6B98E5AD456/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2088938621"
     },
     {
       "id": "1012688337456587048",
       "name": "The Potionbrewer",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1012688337456587048/8E24ED40D19031B1F9CC95F169DD355764153AE0/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1012688337456587048/8E24ED40D19031B1F9CC95F169DD355764153AE0/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2041287303"
     },
     {
       "id": "781874689670115421",
       "name": "The Wanderer",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/781874689670115421/05AED890BCBABD2E3BC55C28CD98678D97436EA9/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/781874689670115421/05AED890BCBABD2E3BC55C28CD98678D97436EA9/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1997053791"
     },
     {
       "id": "773988781510310298",
       "name": "The Firefly",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/773988781510310298/251C0EA8D87DFB679B5CA6CA0F5F324EE27407E6/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/773988781510310298/251C0EA8D87DFB679B5CA6CA0F5F324EE27407E6/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1945173002"
     },
     {
       "id": "775114124203193522",
       "name": "Pikachu",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/775114124203193522/603DFEC05572B01942D175C22D9C3EAB8ABD2C3B/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/775114124203193522/603DFEC05572B01942D175C22D9C3EAB8ABD2C3B/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1940069228"
     },
     {
       "id": "1832403262646855079",
       "name": "The Bandit",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1832403262646855079/1423D506EA18BA6254350622EE088C2DC4BA419A/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1832403262646855079/1423D506EA18BA6254350622EE088C2DC4BA419A/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1897978748"
     },
     {
       "id": "770605450866553182",
       "name": "The Hierophant",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/770605450866553182/B1EB74356D4D509E21D6D0C0A15B8FF8CAD000B7/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/770605450866553182/B1EB74356D4D509E21D6D0C0A15B8FF8CAD000B7/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1897365186"
     },
     {
       "id": "753716318409805725",
       "name": "The Judge - Character Mod",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/753716318409805725/9F6069925FA49C6319E9A4A9161E118B1E93BF2C/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/753716318409805725/9F6069925FA49C6319E9A4A9161E118B1E93BF2C/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1891628562"
     },
     {
       "id": "759348233707259163",
       "name": "The Forsaken",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/759348233707259163/3A679E73EDBC2CE69ED0F2CB6F0D0ED205E73224/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/759348233707259163/3A679E73EDBC2CE69ED0F2CB6F0D0ED205E73224/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1841582185"
     },
     {
       "id": "787486340348918521",
       "name": "The Wild Card",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/787486340348918521/FF9C547369F7FA9174A3685B0CEAE87FFB7EA5F1/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/787486340348918521/FF9C547369F7FA9174A3685B0CEAE87FFB7EA5F1/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1817128315"
     },
     {
       "id": "780729699950575218",
       "name": "The Problem Sleuth",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/780729699950575218/5198FAB953F101174DFEFE95BF7344FC21B9F8A3/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/780729699950575218/5198FAB953F101174DFEFE95BF7344FC21B9F8A3/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1806857139"
     },
     {
       "id": "771720997271928304",
       "name": "The Senshi",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/771720997271928304/29347612B113DDD06D0CB8A74DD61AA783EF3666/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/771720997271928304/29347612B113DDD06D0CB8A74DD61AA783EF3666/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1787031743"
     },
     {
       "id": "2041859655263062400",
       "name": "The Thorton",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/2041859655263062400/E84B86DA068936334A3B368E861AEF3BA28A7939/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2041859655263062400/E84B86DA068936334A3B368E861AEF3BA28A7939/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1783016812"
     },
     {
       "id": "788606529607264154",
       "name": "One-Punch Man",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/788606529607264154/B5CC903E6ADEF21E4C575B397ED67692884BD93D/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/788606529607264154/B5CC903E6ADEF21E4C575B397ED67692884BD93D/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1755159199"
     },
     {
       "id": "781862709886909931",
       "name": "The Bug Knight",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/781862709886909931/74BBE52C2B27476DF21689A3A7CC2B3CE83420B7/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/781862709886909931/74BBE52C2B27476DF21689A3A7CC2B3CE83420B7/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1750758531"
     },
     {
       "id": "797612560280847360",
       "name": "Bard",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/797612560280847360/CEE0B1A98587CE8AA7CFD5F99808C4AB7E405AC6/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/797612560280847360/CEE0B1A98587CE8AA7CFD5F99808C4AB7E405AC6/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1744254855"
     },
     {
       "id": "787478092107661925",
       "name": "The Bladedancer",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/787478092107661925/ACC1BBD4A505422B4E54F61D5EB2C0E5EA6F959D/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/787478092107661925/ACC1BBD4A505422B4E54F61D5EB2C0E5EA6F959D/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1731281703"
     },
     {
       "id": "840394510882799111",
       "name": "Astrologer",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/840394510882799111/87A49471CA7F0CEC2AEB11FEAE8768692056391F/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/840394510882799111/87A49471CA7F0CEC2AEB11FEAE8768692056391F/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1720444689"
     },
     {
       "id": "772864861586074806",
       "name": "The Hayseed",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/772864861586074806/DD78C197E1E27F03B454EC5AA6BDAABA00DFFA9B/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/772864861586074806/DD78C197E1E27F03B454EC5AA6BDAABA00DFFA9B/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1717515299"
     },
     {
       "id": "840394510887089920",
       "name": "The Poker Player",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/840394510887089920/B7A74F6E5CA6057CA4989726CEA6491CF5DF259C/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/840394510887089920/B7A74F6E5CA6057CA4989726CEA6491CF5DF259C/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1710999325"
     },
     {
       "id": "994638459908731094",
       "name": "The Duelist",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/994638459908731094/9FC85813988D4CFF13663310AEE482D1CEA00887/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/994638459908731094/9FC85813988D4CFF13663310AEE482D1CEA00887/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1673346215"
     },
     {
       "id": "995765773262647498",
       "name": "The Cursed",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/995765773262647498/FC6A4542290B67004D0E475C97A0D4DCDC38562F/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/995765773262647498/FC6A4542290B67004D0E475C97A0D4DCDC38562F/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1670942227"
     },
     {
       "id": "959733232048198176",
       "name": "The Saiyan",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/959733232048198176/4E8EDA491B5856FD84E7BF06EAB69CB3F3232733/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/959733232048198176/4E8EDA491B5856FD84E7BF06EAB69CB3F3232733/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1639876921"
     },
     {
       "id": "779623890176816954",
       "name": "The Animator",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/779623890176816954/753695D60FFA84BA6376C8E2C6EA74365AFBB78E/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/779623890176816954/753695D60FFA84BA6376C8E2C6EA74365AFBB78E/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1638308801"
     },
     {
       "id": "963110007861580831",
       "name": "The Elementalist",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/963110007861580831/64D4A086CFD4385FC7FBA7A6E0DFD0D112C0388F/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/963110007861580831/64D4A086CFD4385FC7FBA7A6E0DFD0D112C0388F/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1637996817"
     },
     {
       "id": "959734442045884498",
       "name": "The Runesmith",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/959734442045884498/DFA487CA7AF121C7DD0ADFB2D25E6E51EAE92681/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/959734442045884498/DFA487CA7AF121C7DD0ADFB2D25E6E51EAE92681/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1633549612"
     },
     {
       "id": "952976223521088321",
       "name": "The Necromancer",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/952976223521088321/DB15E5D4831E01DEDD9687391064D9B38F8D0C0D/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/952976223521088321/DB15E5D4831E01DEDD9687391064D9B38F8D0C0D/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1632272814"
     },
     {
       "id": "943967583667948062",
       "name": "The Servant",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/943967583667948062/932C4B23E3161A3C77CF35F866723209236509BD/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/943967583667948062/932C4B23E3161A3C77CF35F866723209236509BD/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1615745539"
     },
     {
       "id": "942841683755127981",
       "name": "Marisa",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/942841683755127981/F4B67082436733E1880BFAB9C16915DCF951EB79/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/942841683755127981/F4B67082436733E1880BFAB9C16915DCF951EB79/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1614104912"
     },
     {
       "id": "939463984031583477",
       "name": "GluttonMod",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/939463984031583477/B044AF4A945D1F62016471D489C6FC51E37FDEB7/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/939463984031583477/B044AF4A945D1F62016471D489C6FC51E37FDEB7/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1613729300"
     },
     {
       "id": "941715639801393031",
       "name": "The Construct",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/941715639801393031/6426C138902ED4CFC2B2E5FE566DD74D7C154AE0/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/941715639801393031/6426C138902ED4CFC2B2E5FE566DD74D7C154AE0/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1612725037"
     },
     {
       "id": "772852808936153070",
       "name": "The Blackbeard",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/772852808936153070/D519B6455F49FD7A27F766F1E9663699FE929344/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/772852808936153070/D519B6455F49FD7A27F766F1E9663699FE929344/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1612105245"
     },
     {
       "id": "809996484923010913",
       "name": "The Gatherer",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/809996484923010913/4F66F9D229FDE3CAF476A13592F1940FEC3F8CD1/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/809996484923010913/4F66F9D229FDE3CAF476A13592F1940FEC3F8CD1/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1611788501"
     },
     {
       "id": "1733343222659128359",
       "name": "The Mystic",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1733343222659128359/35552B772FC308786B3F8D0AE8D2972025C786A9/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1733343222659128359/35552B772FC308786B3F8D0AE8D2972025C786A9/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1609848111"
     },
     {
       "id": "957477841524512212",
       "name": "The Disciple",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/957477841524512212/2B8330833C374B354D47BFBBA8380A0511B11154/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/957477841524512212/2B8330833C374B354D47BFBBA8380A0511B11154/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1609846039"
     },
     {
       "id": "941715639802768517",
       "name": "The Beaked",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/941715639802768517/8C922943DA21BE66FB5D30D12D77F51DF86CE4C1/"
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/941715639802768517/8C922943DA21BE66FB5D30D12D77F51DF86CE4C1/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1609820830"
     },
     {
-        "id": "1977673593793420057",
-        "name": "The Constrictor",
-        "image": "https://steamuserimages-a.akamaihd.net/ugc/1977673593793420057/57CE48CD16E97BF69DB3A172EC66C6B00B37F4B2/"
+      "id": "1977673593793420057",
+      "name": "The Constrictor",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1977673593793420057/57CE48CD16E97BF69DB3A172EC66C6B00B37F4B2/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2900219756"
     },
     {
-        "id": "1800871088520052920",
-        "name": "Mystery Dungeon",
-        "image": "https://steamuserimages-a.akamaihd.net/ugc/1800871088520052920/A07581638D89009E2452B3CC996FD51E3C4C843C/"
+      "id": "1800871088520052920",
+      "name": "Mystery Dungeon",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1800871088520052920/A07581638D89009E2452B3CC996FD51E3C4C843C/",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2643686261"
     }
 ]

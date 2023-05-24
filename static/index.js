@@ -8,6 +8,7 @@ socket.on('vote', (items, times) => {
         let button = document.getElementById('options').children[index*2].firstChild;
         button.firstChild.src = char.image;
         button.lastChild.innerText = char.name;
+        document.getElementById('options').children[index*2].lastChild.firstChild.href = char.link;
     });
     console.log(items);
 });
