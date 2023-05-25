@@ -21,7 +21,7 @@
         c.numLosses = c.losses.length;
         c.totalVotes = c.numWins + c.numLosses;
         c.winRate = c.wins.length / c.totalVotes;
-        c.uniqueVoters = [...new Set(votes.filter(v => v.win == c.id || v.lose == c.id).map(v => c.user))].length;
+        c.uniqueVoters = [...new Set(votes.filter(v => v.win == c.id || v.lose == c.id).map(v => v.user))].length;
         c.notPlayed = blacklists.filter(b => b.char == c.id).length;
         c.playedRate = c.uniqueVoters / (c.uniqueVoters + c.notPlayed);
         c.id = i;

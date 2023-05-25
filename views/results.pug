@@ -3,14 +3,32 @@ extends ./lay
 block title
     | Results
 
+append css
+    if results
+        link(href="https://unpkg.com/bootstrap-table@1.21.4/dist/bootstrap-table.min.css" rel="stylesheet")
+        link(href="/results.css" rel="stylesheet")
+
 block content
     if results
-        p Hopefully there'll be a better results viewer later. For now, open up your browser's JavaScript console with #[code Ctrl] + #[code Shift] + #[code K] and type #[code results] to view the results.
+        h1 StS Character Ranking Results
+        p (Results last generated #[span#date])
+        p #{results.uniqueVoters} voters cast a total of #{results.totalVotes} votes.
+        table(data-toggle="table")
+            thead: tr
+                each i in ["Character", "Votes", "W", "L", "WR%", "Played", "Not Played", "P%"]
+                    th(data-sortable="true")= i
+                th
+            tbody
         script.
             results = !{JSON.stringify(results)};
     else
         h1 Results haven't been generated yet.
 
+prepend js
+    if results
+        script(src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js")
+
 append js
     if results
+        script(src="https://unpkg.com/bootstrap-table@1.21.4/dist/bootstrap-table.min.js")
         script(src="/results.js")

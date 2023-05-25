@@ -1,0 +1,11 @@
+table {
+    color: #cbcbcb !important;
+}
+
+tr:hover > * {
+    color: white !important;
+}
+
+a {
+    color: white;
+}
