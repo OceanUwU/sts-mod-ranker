@@ -24,6 +24,8 @@ block content
                     img.rounded.mx-2(width=75 src=character.image)
                     b= character.name
                     = ` - ${character.votes} votes - ${character.wins}/${character.losses}`
+            script.
+                console.log(!{JSON.stringify(characters.map(c => ({name: c.name, winrate: c.winrate})))})
             h2 Individual votes
             if votes.length > 0
                 each vote in votes
