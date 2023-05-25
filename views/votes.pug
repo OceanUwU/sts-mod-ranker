@@ -7,6 +7,25 @@ block content
     if req.user
         .p-3
             h1 Your votes #[a.btn.btn-primary(href="/") Back to voting]
+            -
+                let wins = votes.map(v => v.win);
+                let losses = votes.map(v => v.lose);
+                let characters = [...new Set([...wins, ...losses])].map(character => {
+                    character.wins = wins.filter(w => w == character).length;
+                    character.losses = losses.filter(w => w == character).length;
+                    character.votes = character.wins + character.losses;
+                    character.winrate = character.wins / character.votes;
+                    return character;
+                });
+                characters.sort((a, b) => b.winrate - a.winrate);
+                console.log(characters.map(c => c.winrate));
+            each character in characters
+                p
+                    span.d-inline-block.progress.w-50.me-3(role="progressbar"): span.progress-bar.bg-success.overflow-visible.text-black(style=`width: ${character.winrate*100}%`)= Math.round(character.winrate*100)+"%"
+                    img.rounded.mx-2(width=75 src=character.image)
+                    b= character.name
+                    = ` - ${character.votes} votes - ${character.wins}/${character.losses}`
+            h2 Individual votes
             if votes.length > 0
                 each vote in votes
                     p
